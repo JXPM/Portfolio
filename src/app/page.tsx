@@ -3,7 +3,7 @@
 import React, { useState} from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { 
-  FaBriefcase, FaEnvelope, FaGithub, FaLinkedin, FaCode, FaChartLine, FaFileExcel, FaDownload,
+ FaEnvelope, FaGithub, FaLinkedin, FaCode, FaChartLine, FaFileExcel, FaDownload,
   FaDatabase, FaChartBar, FaGraduationCap, FaCertificate, FaPython, FaJs, FaHtml5, FaCss3, FaReact, FaNodeJs 
 } from "react-icons/fa";
 import { 
