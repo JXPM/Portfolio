@@ -149,7 +149,7 @@ Actuellement à la recherche d'une alternance en Data, je souhaite mettre mes co
       </li>
     ))}
   </ul>
-</motion.section>
+</motion.section>  
             {/* Expériences */}
             <motion.section 
   className="mt-12"
